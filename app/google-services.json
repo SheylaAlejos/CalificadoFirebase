@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "520777834223",
+    "firebase_url": "https://calificadofirebase.firebaseio.com",
+    "project_id": "calificadofirebase",
+    "storage_bucket": "calificadofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520777834223:android:cc3a2abc096e5867",
+        "android_client_info": {
+          "package_name": "com.sheyla.calificadofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520777834223-vf99tioa4tpmld7ljdqtdm0trnpi6qt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheyla.calificadofirebase",
+            "certificate_hash": "03568d8db61110cf9cfddeea9fa7c54eb4563384"
+          }
+        },
+        {
+          "client_id": "520777834223-fsknuio83ed179047ghj5pdrvfrhpcup.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "520777834223-fsknuio83ed179047ghj5pdrvfrhpcup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRzKq3BtBDwA_NyHXxdvWiRH_FcVwSok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520777834223-fsknuio83ed179047ghj5pdrvfrhpcup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
